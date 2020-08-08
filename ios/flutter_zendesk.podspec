@@ -16,7 +16,5 @@ A new Flutter project.
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'ZendeskChatSDK'
   s.dependency 'Flutter'
-
-  s.ios.deployment_target = '10.0'
 end
 
